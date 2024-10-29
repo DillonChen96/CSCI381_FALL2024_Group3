@@ -12,10 +12,9 @@
 
 // Augusta:
 
-// Dillon:
+// Dillon: https://drive.google.com/file/d/1JXdiZHbg0qMDjWRjfqqTH8yshPFug4K0/view?usp=sharing
 
 // Sarmad:
 
 // Sebastian:
-
-// Tsering: https://drive.google.com/file/d/1ch_ObnBf2Uyn6l7P-MwgcRxi9h4zCNTN/view?usp=sharing
+\nTsering: https://drive.google.com/file/d/1ch_ObnBf2Uyn6l7P-MwgcRxi9h4zCNTN/view?usp=sharing
