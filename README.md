@@ -1,20 +1,19 @@
-// ATTENTION:
-// THIS IS THE LINK TO THE ZIPFILE WITH ALL OF OUR VIDEOS FOR HOMEWORK PPHW3 NOT PHW3S. We had trouble stitching the video together due to the file sizes.
+// PHW3 Videos Zipfile: https://drive.google.com/drive/folders/1Kus1Hu2JSb3q2RdQiNLirEa3MPdj7DDy?usp=sharing
 
-// (DONE)   https://drive.google.com/drive/folders/1Kus1Hu2JSb3q2RdQiNLirEa3MPdj7DDy?usp=sharing
+// PHW3S Video Links:
 
-// the link below is Almas Haques phw3s video(DONE):
-// (DONE) https://drive.google.com/file/d/1Pq2FCXPWj3A0ThdnrhkMrLuS-BHbJqRM/view?usp=sharing
+Almas Haque: https://drive.google.com/file/d/1Pq2FCXPWj3A0ThdnrhkMrLuS-BHbJqRM/view?usp=sharing
 
 // PHW4 Video Links:
 
-// Almas Haque: https://drive.google.com/file/d/1mj--g28FXVyS3CPwcpnOpNbhQBYDxuMW/view?usp=sharing
+Almas Haque: https://drive.google.com/file/d/1mj--g28FXVyS3CPwcpnOpNbhQBYDxuMW/view?usp=sharing
 
-// Augusta:
+Augusta:
 
-// Dillon: https://drive.google.com/file/d/1JXdiZHbg0qMDjWRjfqqTH8yshPFug4K0/view?usp=sharing
+Dillon: https://drive.google.com/file/d/1JXdiZHbg0qMDjWRjfqqTH8yshPFug4K0/view?usp=sharing
 
-// Sarmad:
+Sarmad:
 
-// Sebastian:
-\nTsering: https://drive.google.com/file/d/1ch_ObnBf2Uyn6l7P-MwgcRxi9h4zCNTN/view?usp=sharing
+Sebastian:
+
+Tsering: https://drive.google.com/file/d/1ch_ObnBf2Uyn6l7P-MwgcRxi9h4zCNTN/view?usp=sharing
